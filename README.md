@@ -19,5 +19,4 @@ The Todo List app is designed to help users efficiently organize their tasks. Wi
 
 - **React**: The core library for building user interfaces.
 - **JavaScript (ES6+)**: Modern JavaScript features for cleaner and more efficient code.
-- **HTML/CSS**: Basic web technologies for structuring the app.
 - **Tailwind CSS**: A utility-first CSS framework for styling the application.
